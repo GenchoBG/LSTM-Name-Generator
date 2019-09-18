@@ -1,2 +1,2 @@
 # LSTM-Name-Generator
-Generating Bulgarian-like names using an LSTM Neural Networks
+Generating names using an LSTM Neural Networks
